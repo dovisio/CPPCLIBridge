@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  NativeLibrary.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\Dovydas\source\repos\NativeLibrary\Debug\NATIVELIBRARY.lib and object C:\Users\Dovydas\source\repos\NativeLibrary\Debug\NATIVELIBRARY.exp
+  NativeLibrary.vcxproj -> C:\Users\Dovydas\source\repos\NativeLibrary\Debug\NATIVELIBRARY.dll
